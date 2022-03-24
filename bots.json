@@ -1,0 +1,7 @@
+[
+    {
+        "name": "androz",
+        "token": "process.env.TOKEN",
+        "adminIDs": "773264041841918004"
+    }
+]
